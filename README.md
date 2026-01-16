@@ -1,2 +1,1 @@
-# Regression-and-Classification-Problem-Data-Analysis-Report
-Solving a Regression and classification problem with logistic regression.
+This project focused on two main tasks: first, analyzing a dataset to develop a polynomial regression model for predicting a dependent variable, selecting the optimal polynomial degree, and evaluating model performance using test data. Second, a binary classification problem was addressed, where the goal was to derive the optimal classifier and train a logistic classifier using stochastic gradient descent. The project included empirical comparison of both models' performance through Monte Carlo simulations.
